@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+
+.my_para{
+    @apply bg-purple-700 sm:bg-green-700 md:bg-red-900 lg:bg-blue-900 text-white p-[12px]
+}
+@tailwind utilities;
